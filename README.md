@@ -28,10 +28,12 @@
 </p>
 
 ### 🐍 Contribution Snake
+### 🐍 My Contribution Snake
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake.gif" width="800" />
   </picture>
 </p>
