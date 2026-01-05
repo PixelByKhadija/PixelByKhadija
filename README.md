@@ -27,9 +27,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp&perline=5" style="height:113px;"/>
 </p>
 
-### 🐍 Contribution Snake
-### 🐍 My Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PixelByKhadija/PixelByKhadija/output/snake-dark.svg" />
