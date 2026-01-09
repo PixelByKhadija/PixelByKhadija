@@ -23,13 +23,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_bg: "#1a1f36"              
-          color_snake: "#ec4899"          
-          color_dots: "#a78bfa"              
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?color_bg=#0d1117&color_snake=#f472b6&color_dots=#8b5cf6
-            dist/snake.gif?color_bg=#1a1f36&color_snake=#ec4899&color_dots=#a78bfa
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=#423170&color_dots=#E0BBE4,#CBAEDB,#A68CBE,#FFC0CB,#FFDAB9&max_steps=15000
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to output branch
