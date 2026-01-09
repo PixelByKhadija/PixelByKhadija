@@ -1,19 +1,19 @@
-name: Generate Snake Animation
+name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  
-  workflow_dispatch:       
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main               
+      - main
 
 jobs:
   generate:
     permissions:
-      contents: write      
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -23,15 +23,19 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          color_bg: "#1a1f36"              
+          color_snake: "#ec4899"          
+          color_dots: "#a78bfa"              
           outputs: |
-            dist/snake.svg?palette=github-light&color_snake=ff69b4&color_dots=#f8e1ff,#e8b8ff,#d68cff,#c05fff,#a533e6
-            dist/snake-dark.svg?palette=github-dark&color_snake=ff69b4&color_dots=#2d1b3d,#4a1b5e,#6d2d8a,#903fb7,#b24be6
-            dist/snake.gif?color_snake=ff69b4&color_dots=#f8e1ff,#e8b8ff,#d68cff,#c05fff,#a533e6
+            dist/snake.svg
+            dist/snake-dark.svg?color_bg=#0d1117&color_snake=#f472b6&color_dots=#8b5cf6
+            dist/snake.gif?color_bg=#1a1f36&color_snake=#ec4899&color_dots=#a78bfa
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4  
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: dist
+          publish_dir: ./dist
           force_orphan: true
