@@ -24,9 +24,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_bg=#120A24&color_snake=#423170&color_dots=#E0BBE4,#CBAEDB,#A68CBE,#FF5FA2,#7A003C
-            dist/snake-dark.svg?color_bg=#120A24&color_snake=#423170&color_dots=#E0BBE4,#CBAEDB,#A68CBE,#FF5FA2,#7A003C
-            dist/snake.gif?color_bg=#120A24&color_snake=#423170&color_dots=#E0BBE4,#CBAEDB,#A68CBE,#FF5FA2,#7A003C&max_steps=15000
+            dist/snake.svg?color_bg=%23120A24&color_snake=%23423170&color_dots=%23E0BBE4,%23CBAEDB,%23A68CBE,%23FF5FA2,%232B0B24
+            dist/snake-dark.svg?color_bg=%23120A24&color_snake=%23423170&color_dots=%23E0BBE4,%23CBAEDB,%23A68CBE,%23FF5FA2,%232B0B24
+            dist/snake.gif?color_bg=%23120A24&color_snake=%23423170&color_dots=%23E0BBE4,%23CBAEDB,%23A68CBE,%23FF5FA2,%232B0B24&max_steps=15000
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to output branch
