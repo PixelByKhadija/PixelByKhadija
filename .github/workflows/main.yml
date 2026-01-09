@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -17,7 +20,7 @@ jobs:
       - name: Generate MultiSource Snake animation
         uses: Zqzqsb/MultiSourceSnake@v1.0
         with:
-          GITHUB_USER: Your_GitHub_Username
+          GITHUB_USER: PixelByKhadija
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg?color_snake=#4B0082&color_dots=#FFC0CB,#FFB6C1,#FF69B4,#FF1493,#C71585
