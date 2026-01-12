@@ -33,9 +33,6 @@
 </p>
 
 
-
-<h2>🛠️ Top Technical Skills & Tools</h2>
-
 <h2>🛠️ Top Technical Skills & Tools</h2>
 
 <p align="left">
