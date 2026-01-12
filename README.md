@@ -37,8 +37,12 @@
 <h2>🛠️ Top Technical Skills & Tools</h2>
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,cpp&perline=5" height="150"/>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,cpp&perline=5"
+    style="zoom:1.4;"
+  />
 </p>
+
 
 
 
