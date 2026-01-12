@@ -1,8 +1,11 @@
 <p align="center">
   <a href="https://github.com/PixelByKhadija">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلا+بكم+في+مساحتي+الخاصة+للإبداع&font=Bold%20Code&size=30&center=true&color=FF69B4&pause=2000" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=للإبداع+الخاصة+مساحتي+في+بكم+أهلا&font=Cairo&size=30&center=true&color=FF69B4&pause=2000&rtl=true"
+    />
   </a>
 </p>
+
 
 <h1 align="center">Hi, I'm Khadija Samy 👋</h1>
 
