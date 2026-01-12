@@ -1,27 +1,46 @@
-<p align="center"> <a href="https://github.com/PixelByKhadija"> <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلا+بكم+في+مساحتي+الخاصة+للإبداع&font=Bold%20Code&center=true&color=FF69B4&pause=2000" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/PixelByKhadija">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلا+بكم+في+مساحتي+الخاصة+للإبداع&font=Bold%20Code&size=30&center=true&color=FF69B4&pause=2000" />
+  </a>
+</p>
 
 <h1 align="center">Hi, I'm Khadija Samy 👋</h1>
-<h2 align="center">Software Engineer | Frontend Developer | Node.js | MERN Stack</h2>
-<br>
-<p align="center"> <a href="https://github.com/PixelByKhadija"> <img src="https://komarev.com/ghpvc/?username=PixelByKhadija&style=flat&color=FF69B4" style="height:30px; object-fit:contain;"/> </a> </p>
 
-<br>
+<h2 align="center">
+  Software Engineer | Frontend Developer
+</h2>
 
-📤 Connect & Competitive Programming
+<br/>
 
-<br>
+<p align="center">
+  <a href="https://github.com/PixelByKhadija">
+    <img src="https://komarev.com/ghpvc/?username=PixelByKhadija&style=flat&color=FF69B4" height="30"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/khadijasamy/"> <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp; <a href="https://codeforces.com/profile/Khadija_Suliman25"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> </p>
 
-<br>
 
-🛠️ Top Technical Skills & Tools
+<h2>📤 Connect & Competitive Programming</h2>
 
-<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/khadijasamy/">
+    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Khadija_Suliman25">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="55"/>
+  </a>
+</p>
 
-<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,python,cpp&perline=5" style="height:113px;"/> </p>
 
-<br>
+
+<h2>🛠️ Top Technical Skills & Tools</h2>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,cpp&perline=5" height="95"/>
+</p>
+
+
 
 <p align="center">
   <picture>
