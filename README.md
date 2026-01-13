@@ -5,10 +5,10 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Khadija Samy 👋</h1>
+<h1 align="center">Hi, I'm Khadija Samy 🥰 </h1>
 
 <h2 align="center">
-  Software Engineer | Frontend Developer
+  Software Engineer | Frontend Developer | Node.js | MERN Stac
 </h2>
 
 <br/>
