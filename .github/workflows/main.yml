@@ -1,5 +1,4 @@
 name: Generate snake animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,28 +6,24 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_bg=%23120A24&color_snake=%23423170&color_dots=%23E0BBE4,%23CBAEDB,%23A68CBE,%23FF5FA2,%232B0B24
-            dist/snake-dark.svg?color_bg=%23120A24&color_snake=%23423170&color_dots=%23E0BBE4,%23CBAEDB,%23A68CBE,%23FF5FA2,%232B0B24
-            dist/snake.gif?color_bg=%23120A24&color_snake=%23423170&color_dots=%23E0BBE4,%23CBAEDB,%23A68CBE,%23FF5FA2,%232B0B24&max_steps=15000
+            dist/snake.svg?color_bg=%23F4EFE6&color_snake=%231E3A5F&color_dots=%23F4EFE6,%23E4D8C6,%23CBB89D,%23A9906D,%231E3A5F
+            dist/snake-dark.svg?color_bg=%231E3A5F&color_snake=%23F4EFE6&color_dots=%231E3A5F,%232C4A73,%23A9906D,%23CBB89D,%23F4EFE6
+            dist/snake.gif?color_bg=%23F4EFE6&color_snake=%231E3A5F&color_dots=%23F4EFE6,%23E4D8C6,%23CBB89D,%23A9906D,%231E3A5F&max_steps=15000
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
