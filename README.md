@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Khadija+Samy&font=Bold%20Code&size=32&width=520&height=45&center=true&color=1E3A5F&pause=100000&repeat=false" /> 🎉
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Khadija+Samy&font=Bold%20Code&size=32&width=520&height=45&center=true&color=1E3A5F&pause=100000&repeat=false" /> 
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+Frontend+Developer+%7C+Node.js+%7C+MERN+Stack&font=Bold%20Code&size=18&width=650&height=30&center=true&color=1E3A5F&pause=100000&repeat=false" />
