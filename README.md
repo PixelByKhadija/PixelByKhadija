@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Khadija+Samy&font=Bold%20Code&size=32&width=520&height=45&center=true&color=1E3A5F&pause=100000&repeat=false" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Khadija+Samy&font=Bold%20Code&size=32&width=520&height=45&center=true&color=1E3A5F&pause=100000&repeat=false" /> 🎉
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%7C+Frontend+Developer+%7C+Node.js+%7C+MERN+Stack&font=Bold%20Code&size=18&width=650&height=30&center=true&color=1E3A5F&pause=100000&repeat=false" />
@@ -12,7 +12,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/PixelByKhadija">
-    <img src="https://komarev.com/ghpvc/?username=PixelByKhadija&style=flat&color=CBB89D" height="30"/>
+    <img src="https://komarev.com/ghpvc/?username=PixelByKhadija&style=flat&color=CBB89D&labelColor=1E3A5F" height="30"/>
   </a>
 </p>
 <h2><img src="https://singlecolorimage.com/get/1E3A5F/20x20" width="14" height="14"/>&nbsp; 📤 Connect & Competitive Programming</h2>
