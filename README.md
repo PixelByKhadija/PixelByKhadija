@@ -12,7 +12,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/PixelByKhadija">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FPixelByKhadija%2Fprofile-readme&query=%24.value&label=Profile%20Views&style=flat&color=CBB89D&labelColor=1E3A5F" height="30"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=PixelByKhadija.readme&left_color=1E3A5F&right_color=CBB89D&left_text=Profile%20Views" height="30"/>
   </a>
 </p>
 <h2><img src="https://singlecolorimage.com/get/1E3A5F/20x20" width="14" height="14"/>&nbsp; 📤 Connect & Competitive Programming</h2>
