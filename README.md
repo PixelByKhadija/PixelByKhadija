@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/PixelByKhadija">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلا+بكم+في+مساحتي+الخاصة+للإبداع&font=Bold%20Code&size=30&center=true&color=1E3A5F&pause=2000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=أهلا+بكم+في+مساحتي+الخاصة+للإبداع&font=Bold%20Code&size=38&center=true&color=1E3A5F&pause=2000" />
   </a>
 </p>
 <h1 align="center">Hi, I'm Khadija Samy 🎉</h1>
@@ -26,8 +26,8 @@
 <h2>🛠️ Top Technical Skills & Tools</h2>
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,cpp&perline=5"
-    width="420"
+    src="https://skillicons.dev/icons?i=html,css,js,cpp,nodejs,express,react,mongodb&perline=8"
+    width="600"
   />
 </p>
 <p align="center">
